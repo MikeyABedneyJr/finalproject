@@ -1,0 +1,85 @@
+h1 {
+    
+  font-family:arial;
+}
+
+body {
+  background-image: url('http://moreenlittrell.com/wp-content/uploads/2013/08/Chalkboard.jpg');
+  background-size: cover;
+  repeat: no-repeat; 
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+  display: inline-block;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+  margin: 0;
+}
+
+#kid1 {
+  background-image: url('../finalproject/images/brad.jpg'); 
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#kid2 {
+  background-image: url('../finalproject/images/jill.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#kid3 {
+  background-image: url('../finalproject/images/kat.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#kid4 {
+  background-image: url('../finalproject/images/mal.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#kid5 {
+  background-image: url('../finalproject/images/sam.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#kid6 {
+  background-image: url('../finalproject/images/zach.jpg'); 
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 100px;
+  height:100px;
+}
+
+#button1 {
+  width: auto;
+  height: auto;
+  margin: 20px auto;
+  background-color: #5F9EA0;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  font-size: 1em;
+  font-family: Verdana;
+  color: white;
+  padding: 10px;
+}
