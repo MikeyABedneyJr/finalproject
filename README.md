@@ -1,6 +1,6 @@
-This is my codefellows final project.
+This is my Codefellows final project.
+The purpose is to make a visual demonstration on one (of the many) ways to sort the data from an array.
+This has gotten me familiar with GitHub (and gits in general).
 
-Inspired by my background in education, this program will be taking an image (representing students), randomize their height, and then allow the users to press a button and sort them.
-Given the time constraints, I may be adding functionality to it over time.
-
-This is also allowing me to play with GitHub from the command line.
+Not wanting to continuously update the readme, I will put it as this:
+The project has been incredibly challenging despite what we have covered in this month-long course. I suspect that those who came with a more solid understanding may have been successful. At this time, I suspect that this will be unfinished before the deadline.  I may return to this in the future.
