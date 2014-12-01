@@ -21,17 +21,6 @@ li {
   margin: 0;
 }
 
-#studentorder {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  background-size: 100%;
-  width: 100%;
-  height: 100%;
-       -webkit-user-select: none; -khtml-user-select: none; 
-     -moz-user-select: none; -o-user-select: none; user-select: none; 
-      z-index:9990; 
-}
 
 #button1 {
   width: auto;
@@ -45,4 +34,66 @@ li {
   font-family: Verdana;
   color: white;
   padding: 10px;
+}
+
+#button2 {
+  width: auto;
+  height: auto;
+  margin: 20px auto;
+  background-color: #5F9EA0;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  font-size: 1em;
+  font-family: Verdana;
+  color: white;
+  padding: 10px;
+}
+
+#kid1 {
+  background-image: url('../finalproject/images/brad.jpg'); 
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 125px;
+  height:167px;
+}
+
+#kid2 {
+  background-image: url('../finalproject/images/jill.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 125px;
+  height:167px;
+}
+
+#kid3 {
+  background-image: url('../finalproject/images/kat.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 125px;
+  height:167px;
+}
+
+#kid4 {
+  background-image: url('../finalproject/images/mal.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 125px;
+  height:167px;
+}
+
+#kid5 {
+  background-image: url('../finalproject/images/sam.jpg'); 
+  background-repeat: no-repeat; 
+  display: inline-block;
+  width: 125px;
+  height:167px;
+}
+
+#kid6 {
+  background-image: url('../finalproject/images/zach.jpg'); 
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 125px;
+  height:167px;
 }
