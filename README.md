@@ -14,3 +14,6 @@ Future upgrades:
 *Slowly sort the students rather than all at once, in an instant (setTimeout was not workin no matter where I put it)
 *Instead of alphabetical order, randomize the image heights and have it sort from biggest height to smallest (might be a major task)
 *Add noise when whistle and recess buttons are pushed.
+
+Resources used:
+StackOverflow along with a variety of other online resources.
